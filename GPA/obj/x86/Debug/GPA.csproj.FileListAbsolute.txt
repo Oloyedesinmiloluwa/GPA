@@ -1,0 +1,13 @@
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\bin\Debug\GPA.exe
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\bin\Debug\GPA.pdb
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\GPA.Form1.resources
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\GPA.Properties.Resources.resources
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\GPA.exe
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\GPA.pdb
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\bin\Debug\GPA.exe.manifest
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\bin\Debug\GPA.application
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\GPA.exe.manifest
+C:\Users\sinmiloluwa\Documents\Visual Studio 2010\Projects\GPA\GPA\obj\x86\Debug\GPA.application
